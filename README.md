@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=33F782&multiline=true&random=false&width=464&lines=Hello!+my+name+is+Shubham;I+am+a+senior+systems+engineer;I+specialize+image+processing+and+computer+vision)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=33F782&multiline=true&random=false&width=464&height=68&lines=Hello!+my+name+is+Shubham;I+am+a+senior+systems+engineer.)](https://git.io/typing-svg)
 
 # Nice to meet you! 👋
 
