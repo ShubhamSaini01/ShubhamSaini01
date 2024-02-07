@@ -1,19 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=33F782&multiline=true&random=false&width=464&lines=Hello!+my+name+is+Shubham;I+am+a+senior+systems+engineer;I+specialize+image+processing+and+computer+vision)](https://git.io/typing-svg)
 
-# Please to see you
+# Nice to meet you! 👋
 
-
-As a seasoned Computer Vision Engineer with a solid background, I graduated from Birla Institute of Technology and Science, Pilani. My expertise primarily focuses on Image Processing and Computer Vision. Additionally, I am passionate about high-performance computing. Presently, I am delving into various tools and techniques for ML-based inference.
+I'm a seasoned Computer Vision Engineer with a solid background, having graduated from Birla Institute of Technology and Science, Pilani. My expertise primarily focuses on Image Processing and Computer Vision. Additionally, I'm passionate about high-performance computing and currently exploring various tools and techniques for ML-based inference.
 
 ## About Me
 
 - 🌐 Experienced Computer Vision Engineer
-- 💻 Skilled in C++(14,17), PyTorch, CUDA, TensorRT, OpenCV, 
+- 💻 Skilled in C++(14,17), PyTorch, CUDA, TensorRT, OpenCV
 - 🎓 Birla Institute of Technology and Science, Pilani graduate
 
+## 💬 **Ask me about ...**
 - LinkedIn: [Shubham Saini](https://www.linkedin.com/in/shubham-saini003/)
 - Email: shub.saini003@gmail.com
-
 
 Feel free to explore my repositories to learn more about my projects and contributions.
 
