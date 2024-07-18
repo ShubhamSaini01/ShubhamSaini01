@@ -7,7 +7,7 @@ I'm Shubham Saini, a seasoned Computer Vision Engineer with a robust academic ba
 ## About Me
 
 - 🌐 Experienced Computer Vision Engineer
-- 💻 Skilled in C++(14,17), PyTorch, CUDA, TensorRT, OpenCV
+- 💻 Skilled in C++(14,17), high Performance Computing, Multi-Threading, PyTorch, CUDA, TensorRT, OpenCV.
 - 🎓 Birla Institute of Technology and Science, Pilani graduate
 
 ## 💬 **Ask me about ...**
