@@ -2,7 +2,11 @@
 
 # Nice to meet you! 👋
 
-I'm Shubham Saini, a seasoned Computer Vision Engineer with a robust academic background, having graduated from Birla Institute of Technology and Science, Pilani. My expertise spans Image Processing, Computer Vision, and performance and inference engineering, with proficiency in C++, OOP, Memory Management, OpenCV, and AI accelerators. I am particularly passionate about high-performance computing and GPU programming.
+Hi, I'm Shubham Saini, a seasoned Computer Vision Engineer with a robust academic background from Birla Institute of Technology and Science, Pilani. My expertise spans Image Processing, Computer Vision, performance optimization, and inference engineering, with specialized proficiency in high-performance computing (HPC), GPU programming, and AI accelerators.
+
+I'm skilled in C++, Object-Oriented Programming (OOP), advanced Memory Management techniques, OpenCV, CUDA, TensorRT, ONNX, and parallel computing frameworks. My projects frequently involve optimizing deep learning models for accelerated inference, developing efficient and scalable software solutions, and leveraging my extensive experience with GPU architectures.
+
+I'm passionate about solving challenging problems at the intersection of software engineering and AI infrastructure, continually aiming for peak performance, reliability, and innovation.
 
 ## About Me
 
