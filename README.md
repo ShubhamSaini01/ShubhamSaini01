@@ -16,7 +16,7 @@ I'm passionate about solving challenging problems at the intersection of softwar
 
 ## 💬 **Ask me about ...**
 - LinkedIn: [Shubham Saini](https://www.linkedin.com/in/shubham-saini003/)
-- Email: shub.saini003@gmail.com
+- Email: reachshubhamsaini@gmail.com
 
 Feel free to explore my repositories to learn more about my projects and contributions.
 
